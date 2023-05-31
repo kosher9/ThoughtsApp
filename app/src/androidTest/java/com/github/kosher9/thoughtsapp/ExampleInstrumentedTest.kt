@@ -1,4 +1,4 @@
-package com.github.kosher9.thougthsapp
+package com.github.kosher9.thoughtsapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

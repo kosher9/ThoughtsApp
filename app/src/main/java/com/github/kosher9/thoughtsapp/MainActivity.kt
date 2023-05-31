@@ -1,4 +1,4 @@
-package com.github.kosher9.thougthsapp
+package com.github.kosher9.thoughtsapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.github.kosher9.thougthsapp.ui.theme.ThougthsAppTheme
+import com.github.kosher9.thoughtsapp.ui.theme.ThougthsAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
