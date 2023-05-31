@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.github.kosher9.thougthsapp"
+    namespace = "com.github.kosher9.thoughtsapp"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.github.kosher9.thougthsapp"
+        applicationId = "com.github.kosher9.thoughtsapp"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

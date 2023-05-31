@@ -1,4 +1,4 @@
-package com.github.kosher9.thougthsapp.ui.theme
+package com.github.kosher9.thoughtsapp.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.github.kosher9.thougthsapp.ui.theme
+package com.github.kosher9.thoughtsapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
